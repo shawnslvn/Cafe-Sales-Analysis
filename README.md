@@ -3,3 +3,4 @@ In this project I took 10,000 rows of data and had to clean and impute data to g
 
 
 Dataset from Kaggle: 
+![59F2B2CD-C20E-4BB0-9594-47CEBC84F89C_1_105_c](https://github.com/user-attachments/assets/6347f8fb-826c-488e-9f2b-ff11e4741524)
